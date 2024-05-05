@@ -1,0 +1,8 @@
+langchain
+langchain_community
+pandasai
+ollama 
+streamlit
+groq
+langchain-groq
+python-dotenv
